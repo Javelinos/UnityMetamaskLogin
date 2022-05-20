@@ -1,5 +1,5 @@
 /*
-Used to set the network: https://chainlist.org/
+Used to set the network
 1 Mainnet
 3 Ropsten
 4 Rinkeby
@@ -18,8 +18,7 @@ Used to set the network: https://chainlist.org/
 62320 Celo Baklava Testnet
 1666700000 Harmony Testnet Shard0
 1666600000 Harmony Mainnet Shard0
-25 Cronos Mainnet Beta
-338 Cronos Testnet
 */
 
-window.web3ChainId = 1;
+window.web3NetworkId = 1;
+window.infuraKey = "2d0062a43e9e4086829df115488b45a8";
